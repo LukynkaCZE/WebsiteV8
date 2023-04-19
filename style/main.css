@@ -1,0 +1,96 @@
+body {
+    background: #050407;
+    color: #E9E8EB;
+    font-family: 'Inter', sans-serif;
+}
+
+h1 {
+	font-size: 3.653rem;
+	line-height: 5.202rem;
+}
+
+a:link {
+    color: #E9E8EB;
+}
+
+a:visited {
+    color: #E9E8EB;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.fa-brands, .fa-solid  {
+    text-decoration: none;
+    margin-right: 1.3rem;
+    font-size: 2rem;
+}
+.fa-twitter {
+    color: #ff6663 !important
+}
+.fa-github {
+    color: #feb144 !important
+}
+.fa-discord {
+    color: #fdfd97 !important
+}
+.fa-linkedin {
+    color: #9ee09e !important
+}
+.fa-twitch {
+    color: #9ec1cf !important
+}
+.fa-envelope {
+    color: #cc99c9 !important
+}
+
+
+
+.socials {
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    align-items: center;
+    margin-right: 32px;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 0;
+    list-style: none;
+}
+
+
+.text {
+	font-size: 1.125rem;
+	line-height: 2.566rem;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+p {
+    color: #c9c9ca;
+}
+
+
+
+
+
+
+.container {
+    max-width: 880px;
+}
+  
+.container-slim {
+    max-width: 680px;
+}
+  
+.mx-auto {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main-wrapper {
+	margin-top: 144px;
+	padding-right: 40px;
+	padding-left: 40px;
+}
